@@ -106,8 +106,9 @@ section {
   display: block;
 }
 body {
-   
+    background-color: black;  /* 替换原有背景色声明 */
 }
+
 ol,
 ul {
   list-style: none;
